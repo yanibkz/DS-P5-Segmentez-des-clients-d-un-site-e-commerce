@@ -1,7 +1,14 @@
-# DS-P5-Segmentez-des-clients-d-un-site-e-commerce
+# !! PROJET EN COURS D'AMÉLIORATION !! 
 
-`PROJET EN COURS D'AMÉLIORATION`{color:red}
- - Titre du projet pour le portfolio : "Segmentation des clients d'un site e-commerce"
+
+
+
+
+
+# DS-P5-Segmentez-des-clients-d-un-site-e-commerce
+# Titre du projet  : "Segmentation des clients d'un site e-commerce"
+
+
 ## Introduction
 Ce projet a été réalisé dans le cadre de ma formation en data science sur OpenClassrooms. Le projet numéro 5 consistait à aider Olist, une entreprise brésilienne proposant une solution de vente sur les marketplaces en ligne, à comprendre les différents types d'utilisateurs.
 
