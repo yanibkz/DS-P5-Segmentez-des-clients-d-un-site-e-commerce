@@ -8,7 +8,7 @@
 Ce projet a été réalisé dans le cadre de ma formation en data science sur OpenClassrooms. Le projet numéro 5 consistait à aider Olist, une entreprise brésilienne proposant une solution de vente sur les marketplaces en ligne, à comprendre les différents types d'utilisateurs.
 
 ## Mission
-La mission de ce projet était de segmenter les clients d'Olist afin de mieux comprendre leurs comportements d'achat et de proposer des stratégies de marketing adaptées à chaque segment.
+La mission de ce projet était de segmenter les clients d'Olist afin de mieux comprendre leurs comportements d'achat et de proposer des stratégies de marketing adaptées à chaque segment. Une maintenance de la segmentation est aussi demandée (ARI).
 
 ## Données
 Les données sont accessibles via le lien suivant : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
