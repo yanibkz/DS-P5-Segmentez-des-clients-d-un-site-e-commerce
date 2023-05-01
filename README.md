@@ -1,11 +1,6 @@
-# !!! PROJET EN COURS D'AMÉLIORATION !!! 
--
--
--
--
--
--
+
 # DS-P5-Segmentez-des-clients-d-un-site-e-commerce
+
 # Titre du projet  : "Segmentation des clients d'un site e-commerce"
 
 
